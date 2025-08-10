@@ -1,0 +1,3 @@
+# Ignore CSV and model files to avoid large file pushes
+*.csv
+*.pkl
